@@ -1,0 +1,3 @@
+Here, i'll talk about practical experiences i've had at trevotech
+First: After teaching about the various cloud service providers, we were taught how to open free trial accounts 
+and I opened an AWS account and even launched an EC2 instance
